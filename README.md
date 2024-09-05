@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center"> 
-  Hi My Name is Faizan Fida 
+  Hi My Name is Faizan Fida ,
   I'm JavaScript Full Stack Web Developer based in India 🇮🇳.
 </h3>
 
