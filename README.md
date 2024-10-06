@@ -55,10 +55,6 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-faizan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-
-
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-faizan&theme=dark&hide_border=false" />
 <div/>
 
@@ -90,6 +86,6 @@
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=HOTHEAD01TH&icon=10&color=13" width="300" />
+    <img src="https://visitcount.itsvg.in/api?id=code-faizan&icon=10&color=13" width="300" />
   </a>
 </div>
