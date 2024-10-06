@@ -55,7 +55,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HOTHEAD01TH&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=code-faizan&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 
 
 
