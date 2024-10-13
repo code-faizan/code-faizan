@@ -79,7 +79,7 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=HOTHEAD01TH&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </div> -->
 
----
+---.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="300">
 </div>
