@@ -12,7 +12,7 @@
 
 <h3 align="center"> 
   Hi My Name is Faizan Fida ,
-  I'm a Full Stack Web Developer based in India.
+  I'm a Full Stack Web Developer based in India."
 </h3>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 - #### 🌱 I’m currently learning <a href="https://nextjs.org/" target="_blank">Next.Js</a>
 
-- #### 🎯 2024 Goals: TypeScript Full Stack Ninja 🥷🏻.
+- #### 🎯 2024 Goals: TypeScript Full Stack Ninja 🥷🏻
 
 - #### 🙋🏻 Happy to connect Aamzing folks and build Awesome network....
 - <img align="left" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
