@@ -54,9 +54,7 @@
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-faizan&theme=dark&hide_border=false" />
-<div/>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-faizan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
