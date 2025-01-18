@@ -51,7 +51,8 @@
 ## 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=code-faizan&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+   [![GitHub Streak](https://streak-stats.demolab.com?user=code-faizan)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=code-faizan"/></a>
 
   <!-- GitHub Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-faizan&theme=dark&hide_border=true&layout=compact" alt="Top Languages"/>
