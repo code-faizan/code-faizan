@@ -27,7 +27,7 @@
 - 🔭 I’m currently focusing on full-stack development and building projects to hone my skills.
 - 🌱 I’m diving deep into **[Next.js](https://nextjs.org/)** and exploring advanced TypeScript concepts.
 - 🎯 **2024 Goals**: Become a TypeScript Ninja 🥷🏻 and contribute to open-source projects.
-- 🤝 Always open to networking with like-minded individuals and collaborating on exciting projects.
+- 🤝 Always open to networking with like-minded individuals and collaborating on exciting projects
 
 <br clear="right">
 
